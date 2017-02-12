@@ -1,0 +1,27 @@
+Recommender By Joe Franz and Ace Zhang
+This project gives a user a profile and provides book recommendations using Apache Mahout. 
+A user creates a profile or logs into a previously existing profile. From there the user can add ratings for books
+they have read, get an item based recommendation, get a user based recommendation, save their books, and view their books.
+The recommender returns 5 books for the user.
+
+Work BreakDown
+Joe - 
+Apache Mahout and recommender functionality
+Finding Datasets
+Creating user, and book objects for use in the project
+Creating search for book functionality
+Creating update dataset functionality
+Save user data functionality
+Load user functionality
+
+Ace -
+JFrame Graphical User interface
+Login interface
+Creating buttons and events
+Connecting the components to deliver a working program
+
+Link to the github
+https://github.com/cit-upenn/Book-Recommender
+The Book Recommender, unfortunately we enconuntered a problem merging the branches so we created a new repository to hold the final project
+Final product is in the link below
+https://github.com/josep-mark/Recommender/blob/master/readme.txt
